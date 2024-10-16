@@ -2,7 +2,7 @@ module.exports = {
     // baseURL : "http://localhost:5000",
     // baseURL : "http://192.168.29.33:5000",
     // baseURL : "http://api.mevadakalgitea.scriptscholer.in",
-    baseURL : "https://api.mevadakalgitea.scriptscholer.in",
+    baseURL : "https://inventory-order-management-1-z6ss.onrender.com",
     
     DB_URL : "mongodb+srv://kanjiyaparas2002:0PsNjFPYg0dIBKEM@inventory-order-managem.75vwq.mongodb.net/",
     httpSuccess:"Success",
