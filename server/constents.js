@@ -4,7 +4,7 @@ module.exports = {
     // baseURL : "http://api.mevadakalgitea.scriptscholer.in",
     baseURL : "https://api.mevadakalgitea.scriptscholer.in",
     
-    DB_URL : "mongodb://teaApp:teaApp%40123@scriptscholer.in/teaApp?authSource=teaApp",
+    DB_URL : "mongodb+srv://kanjiyaparas2002:0PsNjFPYg0dIBKEM@inventory-order-managem.75vwq.mongodb.net/",
     httpSuccess:"Success",
     httpErrors:{
         500:(() => {
