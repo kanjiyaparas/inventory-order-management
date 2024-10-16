@@ -7,6 +7,14 @@ An Inventory Management System built with React.js for the frontend, and Node.js
 - *Backend*: [Project App Backend](https://inventory-order-management-1-z6ss.onrender.com)
 - *Admin Panel*: [Project App Admin](https://inventory-order-management-eight.vercel.app/)
 
+## Admin Credentials for Live admin App
+- *phone*: 9998911656
+- *Password*: Admin@123
+
+## distributer Credentials for Live admin App
+- *phone*: 8160708090
+- *Password*: paras@123
+
 
 ## Table of Contents
 
